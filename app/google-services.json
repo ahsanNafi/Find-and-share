@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999432687752",
+    "firebase_url": "https://find-and-share-75209-default-rtdb.firebaseio.com",
+    "project_id": "find-and-share-75209",
+    "storage_bucket": "find-and-share-75209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999432687752:android:609ae83f3e9ddfa3b74f3d",
+        "android_client_info": {
+          "package_name": "com.example.findandshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999432687752-s8l8ph4k830ul8s51a91naf20g81hg8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findandshare",
+            "certificate_hash": "690358374ccf8d90690cbe592ff96a7f328275a9"
+          }
+        },
+        {
+          "client_id": "999432687752-6ksn1v782j10901lq8ep7umfq7vdfs2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeHN38ka6I3zUCeIWlQ_-6-3ni6IZYhTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999432687752-6ksn1v782j10901lq8ep7umfq7vdfs2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
